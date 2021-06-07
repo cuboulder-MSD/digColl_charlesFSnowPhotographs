@@ -2,6 +2,9 @@
 ## Description
 Charles F. Snow (1886-1964) was an accomplished professional photographer in Boulder, Colorado, from 1909 to 1961. His portraiture work was innovative at a time when it was common practice to put sitters in head clamps, or pose them in very specific preconceived ways. Snow chose to capture his subjects in natural poses to avoid stiff or uncomfortable expressions on their faces. While some professionals concentrated their artistic work on only men, Snow photographed both genders and was exceptional at capturing images of children. The Charles F. Snow Photographs, 1910-1961, depict the University of Colorado Boulder campus and its faculty, as well as the Boulder area and its residents. This digital collection consists of negatives, 1919-1920, and a selection of Snow’s index cards, 1930-1963, which record the sitter’s name, address, and other information.
 
+Permanent address to digital collection: [https://doi.org/10.25810/48dd-6908](https://doi.org/10.25810/48dd-6908).<br /> 
+Please use the same link when sharing or citing the collection.
+
 ## Metadata
 ### Sitting Number
 ### Collection Name
@@ -81,5 +84,6 @@ Charles F. Snow (1886-1964) was an accomplished professional photographer in Bou
 ### Image Work Type
 ### Image Work Type Vocab
 ### Image Work Type Refid
-
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Charles F. Snow photographs](https://archives.colorado.edu/repositories/2/resources/99).
 ## Notes
