@@ -7,83 +7,54 @@ Please use the same link when sharing or citing the collection.
 
 ## Metadata
 ### Sitting Number
+Identification number assigned to the sitter depicted in the photograph.
+
+Example: 18013
 ### Collection Name
-### Collection Description
+Name of the collection: Charles F. Snow Photographs
 ### Work Title
+Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 ### Work Title Type
+descriptive
 ### Work Agent Name
+Individual(s) or corporate entities that created or are associated with the work. Common names seen in the collection include: Charles F. Snow Studio
 ### Work Agent Name Vocab
-### Work Agent Name Refid
+Resource Description and Access (RDA)
 ### Work Agent Name Type
+corporate
 ### Work Agent Role
+[proprietor](http://vocab.getty.edu/aat/300025241)
 ### Work Agent Role Vocab
-### Work Agent Role Refid
+Getty Art and Architecture Thesaurus (AAT)
 ### Work Date
-### Work Date Type
+The date of creation of the resource. Date ranges include: 1930-1946
 ### Work Description
+Additional notes or description of the content of the item. May contain cataloger's notes as deemed relevant.
 ### Work Type
-### Work Type Vocab
-### Work Type Refid
+A term that specifies the characteristics and general type of content of the resource. Type terms used in this collection include: [business records](http://vocab.getty.edu/aat/300141693)
 ### Location Name
-### Location Type
-### Location Refid
-### Location Refid Type
-### Work Measurements
-### Work Measurement
-### Work Measurement Type
-### Work Measurement Unit
+Location of work creation or publication city. Places include: Boulder, Colorado; Denver, Colorado
 ### Material
-### Material Type
-### Material Vocab
-### Material Refid
+The matter from which a thing is or can be made. Material types include: [cellulose nitrate film](http://vocab.getty.edu/aat/300127344)
 ### Technique
-### Technique Vocab
-### Technique Refid
-### State
-### Edition
-### Inscription
-### Text Inscription
-### Text Type
-### Inscription Position
-### Subject Term
-### Subject Type
-### Subject Vocab
-### Subject Refid
-### Style Period
-### Style Period Vocab
-### Style Period Refid
-### Cultural Context
-### Cultural Context Vocab
-### Cultural Context Refid
-### Textref Name
-### Textref Type
-### Textref Refid
-### Relation
-### Relation Type
-### Relation Relids
-### Relation href
+Manner and ability with which a creator employs the technical skills of a particular art or field of endeavor. Technique terms used in this collection include: [black-and-white photography](http://vocab.getty.edu/aat/300162056)
+### Subject Term_personalName
+A name used as a subject or additional authors, recipients, or names mentioned within the record.
+### Subject Term_descriptiveTopic
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: [Portrait photography](http://id.loc.gov/authorities/subjects/sh85101240)
 ### Repository Location Name
-### Repository Location Type
-### Repository Location Refid
-### Repository Location Refid Type
+The institution or repository that holds the resource or where it is available: Special Collections, Archives & Preservation, University of Colorado Boulder
 ### Image Rights
-### Image Title
-### Image Title Type
+Information about restrictions imposed on access to a resource.
+
+Statement in collection: Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+
 ### Image Source
+Source from which the item was derived (if part of a greater whole). Some records include: Digitized by Chicago Albumen in 2009.
 ### Image Source Type
-### Image Source Refid
-### Image Source Refid Type
-### Image Measurements
-### Image Measurements Type
-### Image Measurements Unit
-### Image Agent Name
-### Image Agent Type
-### Image Agent Role
-### Image Date
-### Image Date Type
+vendor
 ### Image Work Type
-### Image Work Type Vocab
-### Image Work Type Refid
+[digital images](http://vocab.getty.edu/aat/300215302)
 ## Resources
 For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [Charles F. Snow photographs](https://archives.colorado.edu/repositories/2/resources/99).
 ## Notes
